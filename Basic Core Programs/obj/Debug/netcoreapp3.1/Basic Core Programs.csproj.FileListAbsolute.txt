@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Basic Core Programs\Basic Core Programs\bin\Debug\netcoreapp3.1\Basic Core Programs.exe
+C:\Users\Admin\source\repos\Basic Core Programs\Basic Core Programs\bin\Debug\netcoreapp3.1\Basic Core Programs.deps.json
+C:\Users\Admin\source\repos\Basic Core Programs\Basic Core Programs\bin\Debug\netcoreapp3.1\Basic Core Programs.runtimeconfig.json
+C:\Users\Admin\source\repos\Basic Core Programs\Basic Core Programs\bin\Debug\netcoreapp3.1\Basic Core Programs.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Basic Core Programs\Basic Core Programs\bin\Debug\netcoreapp3.1\Basic Core Programs.dll
+C:\Users\Admin\source\repos\Basic Core Programs\Basic Core Programs\bin\Debug\netcoreapp3.1\Basic Core Programs.pdb
+C:\Users\Admin\source\repos\Basic Core Programs\Basic Core Programs\obj\Debug\netcoreapp3.1\Basic Core Programs.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Basic Core Programs\Basic Core Programs\obj\Debug\netcoreapp3.1\Basic Core Programs.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Basic Core Programs\Basic Core Programs\obj\Debug\netcoreapp3.1\Basic Core Programs.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Basic Core Programs\Basic Core Programs\obj\Debug\netcoreapp3.1\Basic Core Programs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Basic Core Programs\Basic Core Programs\obj\Debug\netcoreapp3.1\Basic Core Programs.dll
+C:\Users\Admin\source\repos\Basic Core Programs\Basic Core Programs\obj\Debug\netcoreapp3.1\Basic Core Programs.pdb
+C:\Users\Admin\source\repos\Basic Core Programs\Basic Core Programs\obj\Debug\netcoreapp3.1\Basic Core Programs.genruntimeconfig.cache
