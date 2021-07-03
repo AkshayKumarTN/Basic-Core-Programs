@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Basic_Core_Programs
+namespace BasicCorePrograms
 {
     class LargestAmongThreeNumbers
     {

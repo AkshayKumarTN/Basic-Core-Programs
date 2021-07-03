@@ -2,18 +2,18 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Basic_Core_Programs
+namespace BasicCorePrograms
 {
-    class Alphabet_Is_Vowel_OR_Consonant
+    class AlphabetIsVowelORConsonant
     {
         public static void Readinput()
         {
             Console.Write("Enter an Alphabet : ");
             char alphabet = Convert.ToChar(Console.ReadLine().ToLower());
-            Vowel_OR_Consonant(alphabet);
+            VowelORConsonant(alphabet);
         }
 
-        public static void Vowel_OR_Consonant(char alphabet)
+        public static void VowelORConsonant(char alphabet)
         {
             switch (alphabet)
             {

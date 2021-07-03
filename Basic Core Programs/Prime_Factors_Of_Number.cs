@@ -2,17 +2,17 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Basic_Core_Programs
+namespace BasicCorePrograms
 {
-    class Prime_Factors_Of_Number
+    class PrimeFactorsOfNumber
     {
         public static void Readinput()
         {
             Console.Write("Enter the Number : ");
             int Number = Convert.ToInt32(Console.ReadLine());
-            Prime_Factors(Number);
+            PrimeFactors(Number);
         }
-        public static void Prime_Factors(int Number)
+        public static void PrimeFactors(int Number)
         {
             while (Number % 2 == 0)
             {

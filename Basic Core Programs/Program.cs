@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Basic_Core_Programs
+namespace BasicCorePrograms
 {
     class Program
     {
@@ -26,10 +26,10 @@ namespace Basic_Core_Programs
                     LargestAmongThreeNumbers.Readinput();
                     break;
                 case 4:
-                    Alphabet_Is_Vowel_OR_Consonant.Readinput();
+                    AlphabetIsVowelORConsonant.Readinput();
                     break;
                 case 5:
-                    Prime_Factors_Of_Number.Readinput();
+                    PrimeFactorsOfNumber.Readinput();
                     break;
                 default:
                     Console.WriteLine("Invalid options");
